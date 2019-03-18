@@ -1,3 +1,2 @@
 # udev
-# dev
-# Rihanna (bitch)
+C'est potentiellement tout cassé
